@@ -73,4 +73,3 @@ addEventListener(
     ws-headers:
       Host: cloudflare_workers.dev
 ```
-
